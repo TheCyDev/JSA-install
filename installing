@@ -1,0 +1,5 @@
+Dowload to "djsa.js" in the your folder
+
+then write to your main file:
+const { logging, instl } = require('plug in')
+
